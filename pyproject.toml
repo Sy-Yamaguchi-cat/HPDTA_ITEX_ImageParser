@@ -1,0 +1,18 @@
+[project]
+name = "itexfile"
+authors = [
+    {name = "Sy-Yamaguchi-cat", email = "sei.rm0307@gmail.com"}
+]
+version = "0.0.1"
+description = "Reader of *.img format image file generated with HPD-TA."
+readme = "README.md"
+requires-python = ">3.5"
+license = "MIT"
+keywords = [
+    "HPD-TA", 
+    "parser"
+]
+classifiers = [
+    "Programming Language :: Python :: 3"
+]
+dependencies = []
